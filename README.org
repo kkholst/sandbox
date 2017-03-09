@@ -1,4 +1,8 @@
 [[https://travis-ci.org/kkholst/lava][https://travis-ci.org/kkholst/lava.svg?branch=master]]
+[[https://codecov.io/github/kkholst/lava?branch=master][https://codecov.io/github/kkholst/lava/coverage.svg?branch=master]]
+[[http://cran.rstudio.com/web/packages/lava/index.html][http://www.r-pkg.org/badges/version/lava]]
+[[http://cranlogs.r-pkg.org/downloads/total/last-month/lava][http://cranlogs.r-pkg.org/badges/lava]]
+
 
 #+BEGIN_export HTML
 <a href="https://travis-ci.org/kkholst/lava"><img src="https://travis-ci.org/kkholst/lava.svg?branch=master"></a>

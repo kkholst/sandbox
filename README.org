@@ -1,6 +1,8 @@
 [[https://travis-ci.org/kkholst/lava][https://travis-ci.org/kkholst/lava.svg?branch=master]]
 [[https://codecov.io/github/kkholst/lava?branch=master][https://codecov.io/github/kkholst/lava/coverage.svg?branch=master]]
+#+ATTR_HTML: title="Join"
 [[http://cran.rstudio.com/web/packages/lava/index.html][https://www.r-pkg.org/badges/version/lava]]
+#+ATTR_HTML: title="Join"
 [[http://cranlogs.r-pkg.org/downloads/total/last-month/lava][https://cranlogs.r-pkg.org/badges/lava]]
 
 
